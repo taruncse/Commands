@@ -24,3 +24,7 @@ All useful commands
 9. Go to next/previous file/position **ALT+Command+Arrow(Left/Right)**
 10. Method Definitation  **Command+Shift+i**
 11. Remove unused import **Alt+Command+O**
+12. Block comment **Command+Shift+/(Right arrow)**
+13. Single comment **Command+/**
+14. Search class/file **Command+N**
+15. 
